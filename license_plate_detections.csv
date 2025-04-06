@@ -1,0 +1,11 @@
+PlateNumber,Timestamp,Location,ImageFile,ConfidenceScore
+AP16AB1234,2025-04-07 10:45:00,Main Gate,frame_000.jpg,0.91
+KA03MN5678,2025-04-07 10:45:30,Main Gate,frame_001.jpg,0.95
+DL8CAF4567,2025-04-07 10:46:00,Main Gate,frame_002.jpg,0.94
+DL8CAF4567,2025-04-07 10:46:30,Parking Lot A,frame_003.jpg,0.92
+AP16AB1234,2025-04-07 10:47:00,Main Gate,frame_004.jpg,0.93
+AP16AB1234,2025-04-07 10:47:30,Main Gate,frame_005.jpg,0.93
+AP16AB1234,2025-04-07 10:48:00,Parking Lot A,frame_006.jpg,0.93
+AP16AB1234,2025-04-07 10:48:30,Exit Gate,frame_007.jpg,0.95
+MH12XY9876,2025-04-07 10:49:00,Main Gate,frame_008.jpg,0.99
+AP16AB1234,2025-04-07 10:49:30,Main Gate,frame_009.jpg,0.91
